@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: drafts
 title: "Interview-Prep"
 date: 2017-02-28 12:18:25
 categories: Notes

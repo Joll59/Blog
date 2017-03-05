@@ -16,7 +16,7 @@
 title: Out of the Many, The Few!
 email: alajide@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Musings by a tiny man on a big planet trying to find his way with a firefly.
+  Musings of a tiny man on a huge palnet searching for his way with firefly light
 baseurl: "/Blog" # the subpath of your site, e.g. /blog
 url: "https://joll59.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NotYomi
